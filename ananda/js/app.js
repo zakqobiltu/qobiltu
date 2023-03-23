@@ -90,7 +90,6 @@ document.addEventListener('DOMContentLoaded', () => {
         <h2 class="fsub2 text-light">${name}</h2>
         `;
 
-        document.getElementById('formnama').value = name;
         document.getElementById('namatamu').appendChild(div);
     }
 
