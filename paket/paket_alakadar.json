@@ -1,0 +1,68 @@
+{
+ 
+  "namapaket": "Paket Alakadar",
+  "hargapaket": "Rp. 40.000",
+"itempaket": [
+   {
+   "item":"Masa Aktif Tayang 1 Bulan",
+   "key": "true"
+   },
+   {
+      "item":"Maksimal 2x Acara",
+      "key": "true"
+   },
+   {
+      "item":"5 Galeri Foto",
+      "key": "true"
+   },
+   {
+   "item":"Cantum Akun Instagram",
+   "key": "false"
+   },
+   {
+   "item":"Kirim Kado",
+   "key": "false"
+   },
+   {
+   "item":"Live Streaming",
+   "key": "false"
+   },
+   {
+   "item":"Love Story",
+   "key": "false"
+   },
+   {
+      "item":"Pake Foto Preweding Jika 
+tidak ada Foto Preweding Kami akan Menggantinya Pake Foto Illustrasi",
+      "key": "true"
+   },
+   {
+      "item":"Request Musik",
+      "key": "true"
+   },
+   {
+      "item":"Maksimal 2  Amplop Digital",
+      "key": "true"
+   },
+   {
+      "item":"Hitung Mundur Waktu Acara",
+      "key": "true"
+   },
+   {
+      "item":"Google Maps",
+      "key": "true"
+   },
+   {
+      "item":"Fitur Ucapan doa dan konfirmasi kehadiran tamu",
+      "key": "true"
+   },
+   {
+      "item":"Revisi Maksimal 3 Kali",
+      "key": "true"
+   },
+   {
+      "item":"Bonus Aplikasi Buku Tamu Dan Data kehadiran",
+      "key": "true"
+   }
+]
+}

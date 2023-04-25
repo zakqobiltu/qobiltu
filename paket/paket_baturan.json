@@ -1,0 +1,68 @@
+{
+ 
+  "namapaket": "Paket Mewah",
+  "hargapaket": "Harga Teman",
+"itempaket": [
+   {
+   "item":"Masa Aktif Tayang 3 Bulan",
+   "key": "true"
+   },
+   {
+      "item":"Maksimal 4x Acara",
+      "key": "true"
+   },
+   {
+      "item":"10 Galeri Foto",
+      "key": "true"
+   },
+   {
+   "item":"Cantum Akun Instagram",
+   "key": "true"
+   },
+   {
+   "item":"Kirim Kado",
+   "key": "true"
+   },
+   {
+   "item":"Live Streaming",
+   "key": "true"
+   },
+   {
+   "item":"Love Story",
+   "key": "true"
+   },
+   {
+      "item":"Pake Foto Preweding Jika 
+tidak ada Foto Preweding Kami akan Menggantinya Pake Foto Illustrasi",
+      "key": "true"
+   },
+   {
+      "item":"Request Musik",
+      "key": "true"
+   },
+   {
+      "item":"Maksimal 4  Amplop Digital",
+      "key": "true"
+   },
+   {
+      "item":"Hitung Mundur Waktu Acara",
+      "key": "true"
+   },
+   {
+      "item":"Google Maps",
+      "key": "true"
+   },
+   {
+      "item":"Fitur Ucapan doa dan konfirmasi kehadiran tamu",
+      "key": "true"
+   },
+   {
+      "item":"Revisi Maksimal Sampai Hari H",
+      "key": "true"
+   },
+   {
+      "item":"Bonus Aplikasi Buku Tamu Dan Data kehadiran",
+      "key": "true"
+   }
+]
+}
